@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Jogo pong
 
-Rápida descrição do objetivo de fazer esse projeto
+jogo multiplayer de raquete
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | Jogo pong
+| :label: Tecnologias | java, html, css
+| :rocket: URL         |https://editor.p5js.org/Bruno-Meireles/full/vsAS065DG
+| :fire: Desafio     | https://editor.p5js.org/Bruno-Meireles/sketches/HmNUW8RE7
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![pong imagem](https://user-images.githubusercontent.com/88012503/192629122-403d829c-c5d1-47d0-87b9-c49b46ca9728.png)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+
+
+![jogo pong](https://user-images.githubusercontent.com/88012503/192629171-0389cf84-03f6-4b23-8065-9c7e64483f9b.png)
